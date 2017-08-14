@@ -1,0 +1,25 @@
+Variable_name,Value,MM_PolPri_Src,MM_PolPri_srcWell,MM_PolPri_Dest,MM_PolPri_destWell,MM_PolPri_TFFvol,Cells_Src,Cells_srcWell,Cells_Dest,Cells_destWell,Cells_TFFvol
+Email_to,rat,MM_PolPri,2,PCR1,2,20,Cells1,1,PCR1,2,5
+ExpID,test2,MM_PolPri,2,PCR1,14,20,Cells1,13,PCR1,14,5
+Samples,30,MM_PolPri,2,PCR1,26,20,Cells1,25,PCR1,26,5
+Cells_n,2.0,MM_PolPri,2,PCR1,38,20,Cells1,37,PCR1,38,5
+PCR_n,3.0,MM_PolPri,2,PCR1,50,20,Cells1,49,PCR1,50,5
+ , ,MM_PolPri,2,PCR1,62,20,Cells1,61,PCR1,62,5
+ , ,MM_PolPri,2,PCR1,74,20,Cells1,73,PCR1,74,5
+ , ,MM_PolPri,2,PCR1,86,20,Cells1,85,PCR1,86,5
+ , ,MM_PolPri,1,PCR1,3,20,Cells1,2,PCR1,3,5
+ , ,MM_PolPri,1,PCR1,15,20,Cells1,14,PCR1,15,5
+ , ,MM_PolPri,1,PCR1,27,20,Cells1,26,PCR1,27,5
+ , ,MM_PolPri,1,PCR1,39,20,Cells1,38,PCR1,39,5
+ , ,MM_PolPri,1,PCR1,51,20,Cells1,50,PCR1,51,5
+ , ,MM_PolPri,1,PCR1,63,20,Cells1,62,PCR1,63,5
+ , ,MM_PolPri,1,PCR1,75,20,Cells1,74,PCR1,75,5
+ , ,MM_PolPri,1,PCR1,87,20,Cells1,86,PCR1,87,5
+ , ,MM_PolPri,2,PCR1,4,20,Cells1,2,PCR1,4,5
+ , ,MM_PolPri,2,PCR1,16,20,Cells1,14,PCR1,16,5
+ , ,MM_PolPri,2,PCR1,28,20,Cells1,26,PCR1,28,5
+ , ,MM_PolPri,2,PCR1,40,20,Cells1,38,PCR1,40,5
+ , ,MM_PolPri,2,PCR1,52,20,Cells1,50,PCR1,52,5
+ , ,MM_PolPri,2,PCR1,64,20,Cells1,62,PCR1,64,5
+ , ,MM_PolPri,2,PCR1,76,20,Cells1,74,PCR1,76,5
+ , ,MM_PolPri,2,PCR1,88,20,Cells1,86,PCR1,88,5
